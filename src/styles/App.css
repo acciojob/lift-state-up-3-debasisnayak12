@@ -1,1 +1,12 @@
-
+.parent{
+    background-color: #73fb01;
+    padding: 20px;
+}
+.child1{
+    background-color: #c95a1c;
+    padding: 10px;
+}
+.child2{
+    background-color: #fbcf00;
+    padding: 10px;
+}
